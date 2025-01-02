@@ -32,3 +32,10 @@ agi.db
 .idea
 
 drizzle*.md
+//node_modules
+//.env
+//.env.production
+//.env.local
+//.env.development.local
+//.env.test.local
+//.env.production.local 

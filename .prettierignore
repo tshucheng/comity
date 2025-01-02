@@ -1,1 +1,12 @@
 src/prompts/**/*
+src/config/**/*
+src/database/**/*
+src/utils/**/*
+src/types/**/*
+src/services/**/*
+src/controllers/**/*  
+src/schema/**/*
+src/database/migrations/**/*
+src/database/seed.ts
+src/database/migrate.ts
+src/database/db.ts

@@ -12,6 +12,6 @@ You're using Typescript, Hono, Drizzle ORM, and OpenAI (vercel ai sdk) with Node
 - Use `uuid` for unique identifiers
 - The latest OpenAI model is `gpt-4o` not `gpt-4`
 - The latest Node.js version we're using is `20.x` and it supports natively async/await, promises and fetch api
-- Use Zod for runtime validation and error handling.
+- Use Zod for runtime validation & error handling.
 - Use `uuidv4` for generating UUIDs
 </project_rules>
