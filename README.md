@@ -1,8 +1,10 @@
+<div align="center">
+
+
 ## Comity
 
-![Comity Logo](https://i.imgur.com/vlQYDgj.png)
+![Comity Logo](https://i.imgur.com/RfsMO1d.png)
 
-<div align="center">
   
   [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-comitylabs.com-2ea44f?style=for-the-badge)](https://twitter.com/comitylabs)
   [![Discord](https://img.shields.io/badge/Discord-Coming_Soon!-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/coming-soon)
