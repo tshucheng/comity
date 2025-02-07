@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <a href="#why-comity">Why Comity?</a> •
+  <a href="-#why-comity">Why Comity?</a> •
   <a href="#core-features">Features</a> •
   <a href="#quick-tour">Quick Tour</a> •
   <a href="#get-started-in-5-minutes">Get Started</a> •
@@ -23,7 +23,7 @@
 </p>
 
 
-## Why Comity?
+## ✨ Why Comity?
 
 - **Zero Friction: Integrate effortlessly with your existing tools and services.**
 
