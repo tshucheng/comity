@@ -1,5 +1,5 @@
 #comity
-![Comity Logo](blob:https://imgur.com/b1858eb2-11e2-436e-a5b7-201431b38b04)
+![Comity Logo](https://i.imgur.com/vlQYDgj.png)
 
 <div align="center">
   
