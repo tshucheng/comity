@@ -4,9 +4,10 @@
 
 <div align="center">
   
-  [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-curvegateway.com-2ea44f?style=for-the-badge)]([COPY PASTE URL HERE])
+  [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-comitylabs.com-2ea44f?style=for-the-badge)](https://twitter.com/comitylabs)
   [![Discord](https://img.shields.io/badge/Discord-Coming_Soon!-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/coming-soon)
-  [![Twitter](https://img.shields.io/badge/Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ComityLabs)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/comitylabs?style=social)](https://twitter.com/curvegateway)
+
   
   <h1>Transform Your AI Workflow</h1>
   <p>Comity AI bridges the gap between your tools and AI services, enabling seamless integration and intelligent task execution..</p>
@@ -127,30 +128,29 @@ Comity AI operates in two modes:
 
 📊 Watch It Work
 
-Monitor and visualize Comity AI's operations:
-mermaid
-Copy
+Monitor and visualize Comity AI's operations::
 
+   ```mermaid
 graph LR
     A[User Query] --> B[Comity AI]
     B --> C[LLM Processing]
     B --> D[Tool Execution]
     B --> E[Memory Retrieval]
     B --> F[Response Generation]
+   ```
 
-    Performance Metrics: Track system performance and tool usage.
+  - Performance Metrics: Track system performance and tool usage.
 
-    Request Tracing: Analyze detailed logs for debugging and optimization.
+  - Request Tracing: Analyze detailed logs for debugging and optimization.
 
-🌟 Community & Support
+## 🌟 Socials
+
 <div align="center">
 
-GitHub Stars
-Twitter Follow
+- ❌ [X Updates](https://x.com/ComityLabs)
+- 📧 [Email Support](mailto:support@comitylabs.com)
+  
 </div>
 
-    🐦 Twitter Updates
 
-    📧 Email Support
 
-<div align="center"> <sub>Built with ❤️ by the Comity AI team</sub> </div>
