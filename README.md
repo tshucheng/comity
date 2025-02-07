@@ -7,7 +7,7 @@
 
   
   [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-comitylabs.com-2ea44f?style=for-the-badge)](https://twitter.com/comitylabs)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/comitylabs?style=social)](https://twitter.com/curvegateway)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/comitylabs?style=social)](https://x.com/ComityLabs)
 
   
   <h1>Transform Your AI Workflow</h1>
