@@ -14,11 +14,11 @@
 </div>
 
 <p align="center">
-  <a href="#why-curve">Why Comity?</a> •
+  <a href="#why-comity">Why Comity?</a> •
   <a href="#core-features">Features</a> •
-  <a href="#quick-tour">Demos</a> •
-  <a href="#get-started-in-5-minutes">Quick Start</a> •
-  <a href="#advanced-usage">Advanced</a>
+  <a href="#quick-tour">Quick Tour</a> •
+  <a href="#get-started-in-5-minutes">Get Started</a> •
+  <a href="#advanced-usage">Advanced Usage</a>
 </p>
 
 
@@ -38,31 +38,33 @@
 
 Built on cutting-edge foundations:
 
-- 🧠 LLM-Powered Intelligence: Utilizes GPT-4 for natural language understanding and task execution.
+- 🧠 [LLM-Powered Intelligence](https://www.firecrawl.dev/): Utilizes GPT-4 for natural language understanding and task execution.
 
-- 🔧 Tool Integration: Seamlessly connects with services like Google Calendar, Spotify, Linear, and more.
-
+- 🔧 Tool Integration: Seamlessly connects with services like [Google Calendar](https://calendar.google.com/), [Spotify](https://www.spotify.com/), [Linear](https://linear.app/), and more.
+  
 - 📂 File Management: Read, write, and manage files locally or in the cloud.
 
-- 🗣️ Speech Synthesis: Convert text to speech using ElevenLabs.
+- 🗣️ Speech Synthesis: Convert text to speech using [ElevenLabs](https://elevenlabs.io/).
 
-- 🔍 Advanced Search: Index and search content with Algolia and Qdrant.
+- 🔍 Advanced Search: Index and search content with [Algolia](https://www.algolia.com/) and [Qdrant](https://qdrant.tech/).
 
 - 💾 Persistent Memory: Store and retrieve information for long-term context.
+
+- Crypto: supports checking prices of cryptocurrencies
 
 ## 🎯 Quick Tour
 
 Explore what Comity AI can do:
 
-- 📅 Calendar Assistant - Manage events and schedules.
+- 📅 [Calendar Assistant](https://calendar.google.com/) - Manage events and schedules.
 
-- 🎵 Music Controller - Play and control Spotify playback.
+- 🎵 [Music Controller](https://www.spotify.com/) - Play and control Spotify playback.
 
-- 📧 Email Automation - Send and manage emails.
+- 📧 [Email Automation](https://resend.com/) - Send and manage emails.
 
-- 🗺️ Map Navigator - Find places and directions.
+- 🗺️ [Map Navigator](https://www.google.com/maps) - Find places and directions.
 
-- 💼 Task Manager - Manage tasks and projects with Linear.
+- 💼 [Task Manager](https://linear.app/) - Manage tasks and projects with Linear.
 
 ## Get Started in 5 Minutes
 
@@ -143,14 +145,10 @@ graph LR
 
   - Request Tracing: Analyze detailed logs for debugging and optimization.
 
-## 🌟 Socials
+🌟 Socials
 
-<div align="center">
-
-- ❌ [X Updates](https://x.com/ComityLabs)
-- 📧 [Email Support](mailto:support@comitylabs.com)
+- ❌[X Updates](https://x.com/ComityLabs)
   
-</div>
-
+- 📧[Email Support](mailto:support@comitylabs.com) 
 
 
