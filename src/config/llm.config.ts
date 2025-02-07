@@ -4,6 +4,12 @@ interface ModelSpecs {
   maxOutput: number;
   knowledgeCutoff: string;
 }
+interface AnthropicModelSpecs extends ModelSpecs {
+  id: string;
+  contextWindow: number;
+  maxOutput: number;
+  knowledgeCutoff: string;
+}
 
 export const providers: Record<string, Record<string, ModelSpecs>> = {
   openai: {
