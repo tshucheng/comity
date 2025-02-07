@@ -1,4 +1,5 @@
-#comity
+## Comity
+
 ![Comity Logo](https://i.imgur.com/vlQYDgj.png)
 
 <div align="center">
