@@ -1,87 +1,97 @@
+## Comity
+
+![Comity Logo](https://i.imgur.com/vlQYDgj.png)
+
 <div align="center">
+  
+  [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-curvegateway.com-2ea44f?style=for-the-badge)]([COPY PASTE URL HERE])
+  [![Discord](https://img.shields.io/badge/Discord-Coming_Soon!-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/coming-soon)
+  [![Twitter](https://img.shields.io/badge/Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ComityLabs)
+  
+  <h1>Transform Your AI Workflow</h1>
+  <p>Comity AI bridges the gap between your tools and AI services, enabling seamless integration and intelligent task execution..</p>
+</div>
 
-Website
-Discord
-Twitter
-<h1>Transform Your AI Workflow</h1> <p>Comity AI bridges the gap between your tools and AI services, enabling seamless integration and intelligent task execution.</p> </div><p align="center"> <a href="#why-comity">Why Comity?</a> • <a href="#core-features">Features</a> • <a href="#quick-tour">Demos</a> • <a href="#get-started-in-5-minutes">Quick Start</a> • <a href="#advanced-usage">Advanced</a> </p>
-✨ Why Comity?
+<p align="center">
+  <a href="#why-curve">Why Comity?</a> •
+  <a href="#core-features">Features</a> •
+  <a href="#quick-tour">Demos</a> •
+  <a href="#get-started-in-5-minutes">Quick Start</a> •
+  <a href="#advanced-usage">Advanced</a>
+</p>
 
-    Zero Friction: Integrate effortlessly with your existing tools and services.
 
-    Smart Execution: Automatically determine the best tools and actions for each task.
+## ✨ Why Comity?
 
-    Long-Term Memory: Leverage persistent memory for personalized and context-aware responses.
+- **Zero Friction: Integrate effortlessly with your existing tools and services.**
 
-    Multi-Tool Integration: Combine the power of web search, calendars, email, and more.
+- **Smart Execution: Automatically determine the best tools and actions for each task.**
 
-    Secure & Reliable: Built with robust security and failover mechanisms.
+- **Long-Term Memory: Leverage persistent memory for personalized and context-aware responses.**
 
-🚀 Core Features
+- **Multi-Tool Integration: Combine the power of web search, calendars, email, and more.**
+
+- **Secure & Reliable: Built with robust security and failover mechanisms.**
+
+## 🚀 Core Features
 
 Built on cutting-edge foundations:
 
-    🧠 LLM-Powered Intelligence: Utilizes GPT-4 for natural language understanding and task execution.
+- 🧠 LLM-Powered Intelligence: Utilizes GPT-4 for natural language understanding and task execution.
 
-    🔧 Tool Integration: Seamlessly connects with services like Google Calendar, Spotify, Linear, and more.
+- 🔧 Tool Integration: Seamlessly connects with services like Google Calendar, Spotify, Linear, and more.
 
-    📂 File Management: Read, write, and manage files locally or in the cloud.
+- 📂 File Management: Read, write, and manage files locally or in the cloud.
 
-    🗣️ Speech Synthesis: Convert text to speech using ElevenLabs.
+- 🗣️ Speech Synthesis: Convert text to speech using ElevenLabs.
 
-    🔍 Advanced Search: Index and search content with Algolia and Qdrant.
+- 🔍 Advanced Search: Index and search content with Algolia and Qdrant.
 
-    💾 Persistent Memory: Store and retrieve information for long-term context.
+- 💾 Persistent Memory: Store and retrieve information for long-term context.
 
-🎯 Quick Tour
+## 🎯 Quick Tour
 
 Explore what Comity AI can do:
 
-    📅 Calendar Assistant - Manage events and schedules.
+- 📅 Calendar Assistant - Manage events and schedules.
 
-    🎵 Music Controller - Play and control Spotify playback.
+- 🎵 Music Controller - Play and control Spotify playback.
 
-    📧 Email Automation - Send and manage emails.
+- 📧 Email Automation - Send and manage emails.
 
-    🗺️ Map Navigator - Find places and directions.
+- 🗺️ Map Navigator - Find places and directions.
 
-    💼 Task Manager - Manage tasks and projects with Linear.
+- 💼 Task Manager - Manage tasks and projects with Linear.
 
-    
-Get Started in 5 Minutes
+## Get Started in 5 Minutes
 
-    Clone the Repository:
-    bash
-    Copy
-
+1. Clone the Repository:
+     ```bash
     git clone https://github.com/comityai/comity.git
     cd comity
+    ```
+2. Install Dependencies:
+   ```bash
+   bun install
+   ```
+3. Configure Environment Variables:
+   ```bash
+   cp .env.example .env
+   # Set your API keys and configurations in the .env file
+   ```
 
-    Install Dependencies:
-    bash
-    Copy
-
-    bun install
-
-    Configure Environment Variables:
-    bash
-    Copy
-
-    cp .env.example .env
-    # Set your API keys and configurations in the .env file
-
-    Set Up the Database:
-    bash
-    Copy
-
+4. Set Up the Database:
+   ```bash
     bun generate
     bun migrate
     bun seed
-
-    Run the Application:
-    bash
-    Copy
-
+   ```
+   
+5. Run the Application:
+   ```bash
     bun run dev
+   ```
+
 
     Start Interacting:
 
@@ -90,7 +100,6 @@ Get Started in 5 Minutes
         Use the /api/agi/chat endpoint for API interactions.
 
 🛠️ Advanced Usage
-
 🔧 Tool Configuration
 
 Customize and extend Comity AI's capabilities by adding new tools:
