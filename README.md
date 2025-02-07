@@ -1,13 +1,12 @@
 <div align="center">
 
 
-## Comity
+# Comity
 
 ![Comity Logo](https://i.imgur.com/RfsMO1d.png)
 
   
   [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-comitylabs.com-2ea44f?style=for-the-badge)](https://twitter.com/comitylabs)
-  [![Discord](https://img.shields.io/badge/Discord-Coming_Soon!-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/coming-soon)
   [![Twitter Follow](https://img.shields.io/twitter/follow/comitylabs?style=social)](https://twitter.com/curvegateway)
 
   
@@ -24,7 +23,7 @@
 </p>
 
 
-## ✨ Why Comity?
+## Why Comity?
 
 - **Zero Friction: Integrate effortlessly with your existing tools and services.**
 
@@ -52,7 +51,7 @@ Built on cutting-edge foundations:
 
 - 💾 Persistent Memory: Store and retrieve information for long-term context.
 
-- Crypto: supports checking prices of cryptocurrencies
+- 🪙 Crypto: supports checking prices of cryptocurrencies
 
 ## 🎯 Quick Tour
 
@@ -104,7 +103,7 @@ Explore what Comity AI can do:
 
 ## 🛠️ Advanced Usage
 
-🔧 Tool Configuration
+### 🔧 Tool Configuration
 
 Customize and extend Comity AI's capabilities by adding new tools:
 
@@ -114,7 +113,7 @@ Customize and extend Comity AI's capabilities by adding new tools:
 
 3. Describe the tool's usage in src/database/seed.ts.
 
-🧠 Memory Management
+### 🧠 Memory Management
 
 Comity AI supports long-term memory for personalized interactions:
 
@@ -122,7 +121,7 @@ Comity AI supports long-term memory for personalized interactions:
 
   - Retrieve and utilize memory for more accurate and relevant responses.
 
-🔄 Task Execution Modes
+### 🔄 Task Execution Modes
 
 Comity AI operates in two modes:
 
@@ -130,7 +129,7 @@ Comity AI operates in two modes:
 
   - Thinking: Plans and executes tasks using integrated tools and memory.
 
-📊 Watch It Work
+### 📊 Watch It Work
 
 Monitor and visualize Comity AI's operations::
 
@@ -147,7 +146,7 @@ graph LR
 
   - Request Tracing: Analyze detailed logs for debugging and optimization.
 
-🌟 Socials
+## 🌟 Socials
 
 - ❌[X Updates](https://x.com/ComityLabs)
   
