@@ -1,6 +1,4 @@
-## Comity
-
-![Comity Logo](https://i.imgur.com/vlQYDgj.png)
+![Curve Logo](documentation/source/_static/img/curve-gateway.jpg)
 
 <div align="center">
   
@@ -100,4 +98,56 @@ Check out what's possible:
 
 ### 🔄 LLM Routing
 Switch between models on the fly:
-... (54 lines left)
+```bash
+curl -H 'x-curve-llm-provider-hint: gpt-4' localhost:10000/v1/chat/completions
+```
+
+### ⚡️ Function Calling
+Connect to your APIs:
+```yaml
+prompt_targets:
+  - name: get_weather
+    endpoint:
+      name: weather_api
+      path: /v1/current
+```
+
+### 🛡️ Security Features
+Built-in protection against:
+- 🚫 Prompt injection
+- 🔒 Jailbreak attempts
+- 🔑 Token theft
+- ⚡️ Rate abuse
+
+## 📊 Watch It Work
+
+Monitor everything in real-time:
+```mermaid
+graph LR
+    A[Your App] --> B[Curve Gateway]
+    B --> C[AI Models]
+    B --> D[Your APIs]
+    B --> E[Metrics]
+```
+
+- 📈 Performance metrics: http://localhost:19901/stats
+- 🎯 Visual dashboards: http://localhost:3000/
+- 🔍 Request tracing: http://localhost:16686/
+
+## 🌟 Community & Support
+
+<div align="center">
+  
+  [![GitHub Stars](https://img.shields.io/github/stars/curvelaboratory/curve?style=social)](https://github.com/curvelaboratory/curve)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/curvegateway?style=social)](https://twitter.com/curvegateway)
+  
+</div>
+
+- 🐦 [Twitter Updates](https://twitter.com/curvegateway)
+- 📧 [Email Support](mailto:support@curvegateway.com)
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by the Curve team</sub>
+</div>
