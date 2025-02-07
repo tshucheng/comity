@@ -16,10 +16,10 @@
 
 <p align="center">
   <a href="#-why-comity">Why Comity?</a> •
-  <a href="#core-features">Features</a> •
-  <a href="#quick-tour">Quick Tour</a> •
+  <a href="#-core-features">Features</a> •
+  <a href="#-quick-tour">Quick Tour</a> •
   <a href="#get-started-in-5-minutes">Get Started</a> •
-  <a href="#advanced-usage">Advanced Usage</a>
+  <a href="#-advanced-usage">Advanced Usage</a>
 </p>
 
 
