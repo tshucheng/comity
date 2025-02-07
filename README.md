@@ -92,39 +92,38 @@ Explore what Comity AI can do:
     bun run dev
    ```
 
+6. Start Interacting:
 
-    Start Interacting:
+  - Access the web interface at http://localhost:8080.
+  - Use the /api/agi/chat endpoint for API interactions.
 
-        Access the web interface at http://localhost:8080.
+## 🛠️ Advanced Usage
 
-        Use the /api/agi/chat endpoint for API interactions.
-
-🛠️ Advanced Usage
 🔧 Tool Configuration
 
 Customize and extend Comity AI's capabilities by adding new tools:
 
-    Create a new tool in src/services/tools.
+1. Create a new tool in src/services/tools.
 
-    Add the tool configuration in src/config/tools.config.ts.
+2. Add the tool configuration in src/config/tools.config.ts.
 
-    Describe the tool's usage in src/database/seed.ts.
+3. Describe the tool's usage in src/database/seed.ts.
 
 🧠 Memory Management
 
 Comity AI supports long-term memory for personalized interactions:
 
-    Store user preferences, past interactions, and contextual data.
+  - Store user preferences, past interactions, and contextual data.
 
-    Retrieve and utilize memory for more accurate and relevant responses.
+  - Retrieve and utilize memory for more accurate and relevant responses.
 
 🔄 Task Execution Modes
 
 Comity AI operates in two modes:
 
-    Fast-Track: Directly answers queries using the LLM's knowledge.
+  - Fast-Track: Directly answers queries using the LLM's knowledge.
 
-    Thinking: Plans and executes tasks using integrated tools and memory.
+  - Thinking: Plans and executes tasks using integrated tools and memory.
 
 📊 Watch It Work
 
