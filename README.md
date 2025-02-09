@@ -6,7 +6,7 @@
 ![Comity Logo](https://i.imgur.com/RfsMO1d.png)
 
   
-  [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-comitylabs.com-2ea44f?style=for-the-badge)](https://twitter.com/comitylabs)
+  [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-comitylabs.net-2ea44f?style=for-the-badge)](https://www.comitylabs.net/)
   [![Twitter Follow](https://img.shields.io/twitter/follow/comitylabs?style=social)](https://x.com/ComityLabs)
 
   
