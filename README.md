@@ -51,7 +51,7 @@ Built on cutting-edge foundations:
 
 - 💾 Persistent Memory: Store and retrieve information for long-term context.
 
-- 🪙 Crypto: supports checking prices of cryptocurrencies
+- 🟡 Crypto: supports checking prices of cryptocurrencies
 
 ## 🎯 Quick Tour
 
